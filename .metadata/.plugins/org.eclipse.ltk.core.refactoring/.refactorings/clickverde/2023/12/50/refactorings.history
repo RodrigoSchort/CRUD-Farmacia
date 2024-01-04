@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;descricao&apos; in &apos;com.generation.clickverde.controller.CategoriaController.getByDescricao(...)&apos; to &apos;nome&apos;&#x0D;&#x0A;- Original project: &apos;clickverde&apos;&#x0D;&#x0A;- Original element: &apos;com.generation.clickverde.controller.CategoriaController.getByDescricao(String).descricao&apos;&#x0D;&#x0A;- Renamed element: &apos;descricao&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;descricao&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.generation.clickverde.controller{CategoriaController.java[CategoriaController~getByDescricao~QString;@descricao!1793!1822!1814!1822!QString;!0!true" name="nome" references="true" stamp="1702646123680" version="1.0"/>
+</session>
